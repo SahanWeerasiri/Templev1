@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from '../components/Footer';
 
-const Contact = () => {
+const Contact: React.FC = () => {
   return (
     <div className="bg-gray-100 min-h-screen" style={{paddingLeft: '20px', paddingRight: '20px', marginTop: '60px'}}>
       <main className="container mx-auto py-8">
