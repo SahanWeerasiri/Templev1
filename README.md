@@ -9,8 +9,6 @@ Welcome to the Templev1 repository! This project is primarily developed using Ty
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -18,9 +16,8 @@ Templev1 is a [brief description of what your project does]. This repository con
 
 ## Features
 
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- Feature 3: [Description of feature 3]
+- Firebase storage
+- Photo, Video visualization
 
 ## Installation
 
